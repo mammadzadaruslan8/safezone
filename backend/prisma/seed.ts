@@ -17,7 +17,7 @@ async function main() {
       passwordHash,
       firstName: 'Togrul',
       lastName: 'Admin',
-      systemRole: 'USER',
+      systemRole: 'ADMIN',
     },
   });
 
